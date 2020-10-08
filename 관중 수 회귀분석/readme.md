@@ -12,7 +12,7 @@ statsmodels (회귀분석을 위한 ols 사용)
 2. 1차 회귀분석
 
 3. 아웃라이어와 레버리지 확인 및, 아웃라이어 제거
-- cooks distance 및 fox 추천 판단 사용
+-- cooks distance 및 fox 추천 판단 사용
 
 4. 2차 회귀분석
 
